@@ -1,3 +1,4 @@
+![Aks Cal](https://github.com/AkshitCalonia/AkshitCalonia/blob/921a42d79d23b5ba5bae785f893d284bed7d2d2d/Aks%20cal.jpg?style=centerme)
 # Welcome here, This is the **Threshold** of my codingWorld! 🤖🤘
 
 <!--
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aks Cal](https://github.com/AkshitCalonia/AkshitCalonia/blob/921a42d79d23b5ba5bae785f893d284bed7d2d2d/Aks%20cal.jpg)
+
