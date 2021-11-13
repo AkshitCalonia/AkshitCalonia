@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aks Cal](/Aks cal.jpg)
+![Aks Cal](https://github.com/AkshitCalonia/AkshitCalonia/blob/921a42d79d23b5ba5bae785f893d284bed7d2d2d/Aks%20cal.jpg)
