@@ -12,7 +12,7 @@
 </a>
 </p>
 <h3>
-Machine Learning Engineer | Distributed Systems | CS @ Georgia State
+Machine Learning Engineer | Distributed Systems | RAG Implementation
 </h3>
 </div>
 <hr />
